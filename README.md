@@ -1,1 +1,1 @@
-# academic-ai-assistant-2
+# ai chatbot
